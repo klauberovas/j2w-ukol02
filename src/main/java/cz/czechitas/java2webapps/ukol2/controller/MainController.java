@@ -49,7 +49,7 @@ public class MainController {
                     4, "Pumpkin market",
                     5, "Autumn forest",
                     6, "Beach by the sea",
-                    7, "A cup of tea",
+                    7, "A cup of coffee",
                     8, "Toadstools in the forest"
             );
 
