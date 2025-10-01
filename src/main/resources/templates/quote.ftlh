@@ -10,7 +10,7 @@
     <link href="/images/favicon.png" rel="icon" type="image/png">
 </head>
 <body class="page">
-<img src="/images/${image}.jpg" alt="" class="page__background-image">
+<img src="/images/${image}.jpg" alt="${altText}" class="page__background-image">
 <blockquote class="page__quote"><strong>${quote}</blockquote>
 </body>
 </html>
